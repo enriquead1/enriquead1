@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @enriquead1
 - 👀 I’m interested in bioinformatics and computational biology
-- 🌱 I’m currently learning population genetics
-- 💞️ I’m looking to collaborate on nothing in special
+- 🌱 I’m currently learning data analysis and bioinformatics
+- 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me ...
 
 <!---
